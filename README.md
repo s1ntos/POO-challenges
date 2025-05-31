@@ -137,25 +137,24 @@ Simula compras, cálculo de frete, total com impostos e resumo da compra.
 - Git (opcional, para versionamento)
 
 ## 📚 Conceitos Abordados
-```
-Classes e Objetos
 
-Métodos e Construtores
+- Classes e Objetos
 
-Encapsulamento
+- Métodos e Construtores
 
-Herança
+- Encapsulamento
 
-Polimorfismo
+- Herança
 
-Abstração
+- Polimorfismo
 
-Interfaces
+- Abstração
 
-Listas e Arrays
-```
+- Interfaces
+
+- Listas e Arrays
+
 
 ## ✍️ Autor
-João Paulo Costa
+João Paulo Costa, 
 Desenvolvedor Back-End | Java | Spring Boot
-LinkedIn
