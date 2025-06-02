@@ -5,6 +5,7 @@ Abaixo estão os desafios práticos implementados no repositório, com breves de
 
 ---
 
+## 🔴 Avançado
 
 ### 8. Jogo de Personagens
 Criação de personagens como Guerreiro, Mago, Arqueiro com comportamentos de ataque específicos.  
