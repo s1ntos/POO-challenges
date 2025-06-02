@@ -6,7 +6,9 @@ Abaixo estão os desafios práticos implementados no repositório, com breves de
 ---
 
 
-
 ### 6. Locadora de Filmes
 Crie um sistema para locação de filmes.  
 Inclui classes Cliente, Filme e Locacao, com controle de prazos, descontos e devoluções.
+
+*Conceitos aplicados:*  
+Relacionamento entre classes, coleções, regras de negócio.
