@@ -5,6 +5,7 @@ Abaixo estão os desafios práticos implementados no repositório, com breves de
 
 ---
 
+## 🔴 Avançado
 
 ### 6. Locadora de Filmes
 Crie um sistema para locação de filmes.  
