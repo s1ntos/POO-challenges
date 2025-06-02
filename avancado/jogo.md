@@ -13,6 +13,3 @@ Permite simular combates simples entre eles.
 *Conceitos aplicados:*  
 Abstração, herança, polimorfismo, métodos abstratos.
 
-*Conceitos aplicados:*  
-Abstração, herança, polimorfismo, métodos abstratos.
-
