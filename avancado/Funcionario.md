@@ -8,8 +8,8 @@ Abaixo está o desafio prático implementados no repositório, com breves descri
 ### 5. Funcionários (Herança)
 Classe Funcionario como superclasse, com subclasses Gerente, Vendedor e Estagiario, cada uma com sua própria forma de calcular salário.
 
-
 *Conceitos aplicados:*  
-Relacionamento entre classes, coleções, regras de negócio.
+Herança, polimorfismo, sobrescrita de métodos.
+
 
 
