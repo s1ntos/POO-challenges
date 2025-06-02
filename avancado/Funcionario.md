@@ -5,6 +5,8 @@ Abaixo está o desafio prático implementados no repositório, com breves descri
 
 ---
 
+## 🔴 Avançado
+
 ### 5. Funcionários (Herança)
 Classe Funcionario como superclasse, com subclasses Gerente, Vendedor e Estagiario, cada uma com sua própria forma de calcular salário.
 
